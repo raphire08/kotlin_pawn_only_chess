@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    enum DaysOfTheWeek {
+        // write here
+    }
+
+    fun main() {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20646#comment
+status: Solved
+record: -1
